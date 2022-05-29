@@ -1,0 +1,31 @@
+h1 {
+  font-weight: bolder;
+  font-size: 60px;
+  color: #FFFFFF;
+}
+
+
+h2{
+  text-align: justify;
+  padding: 10px 0;
+  font-weight: bolder;
+  font-size: 36px;
+  color: #FFFFFF;
+  margin-left: 80px;
+  margin-right: 200px;
+  display: flex;
+}
+
+ul {
+  width: 180px;
+  margin:auto;
+  list-style-type: none;
+}
+
+img{
+  width: 300px;
+}
+
+body {
+  background-image: url("../img/background.jpg");
+}
